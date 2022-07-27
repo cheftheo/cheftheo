@@ -1,16 +1,14 @@
-### Hi there 👋
+cheftheo@github
+---------------
+```cs
+Name: Theo
+Age: 20
 
-<!--
-**cheftheo/cheftheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages: JavaScript, Python, Lua, HTML, CSS, NodeJs, PHP, SQL + NOSQL
+Learning: TypeScript, React, Three
 
-Here are some ideas to get you started:
+Workplace: Network engineer @ private company
+Location: Focsani / Bucharest, Romania
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Freelance FiveM Developer ([Community](https://thorhub.ro/))
