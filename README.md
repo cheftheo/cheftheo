@@ -6,7 +6,7 @@ Name: Theo
 Age: 20
 
 Languages: JavaScript, Python, Lua, HTML, CSS, NodeJs, PHP, SQL + NOSQL
-OS: Linux (Ubuntu, CentOS,Debian,Fedora,RedHat,FreeBSD, Kali), Windows
+OS: Linux [Ubuntu, CentOS,Debian,Fedora,RedHat,FreeBSD, Kali], Windows
 Learning: TypeScript, ReactJS, ThreeJS
 
 Workplace: Network engineer @ private company
