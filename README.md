@@ -19,5 +19,5 @@ Freelance FiveM Developer ([Community](https://thorhub.ro/))
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="550" height="325"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheftheo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheftheo&layout=compact)](https://github.com/cheftheo/github-readme-stats)
 
