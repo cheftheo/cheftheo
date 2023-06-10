@@ -9,7 +9,7 @@ Languages: JavaScript, Python, Lua, HTML, CSS, NodeJs, PHP, SQL + NOSQL
 OS: Linux [Ubuntu, CentOS,Debian,Fedora,RedHat,FreeBSD, Kali], Windows
 Learning: TypeScript, ReactJS, ThreeJS
 
-Workplace: Underground Romania (discord.gg/ugro)
+Workplace: Freelance Developer @ Fivem
 Location: Focsani / Bucharest, Romania
 ```
 Freelance FiveM Developer ([Community](https://thorhub.ro/))
