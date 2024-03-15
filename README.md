@@ -5,7 +5,7 @@ cheftheo@github
 Name: Theo
 Age: 20
 
-Languages: JavaScript + libs, Python, Lua, HTML, CSS, NodeJs, PHP, SQL + NOSQL
+Languages: JavaScript + libs, TypeScript Python, Lua, HTML, CSS, NodeJs, PHP, ReactJs, Tailwind, SQL + NOSQL
 OS: Linux [Ubuntu, CentOS,Debian,Fedora,RedHat,FreeBSD, Kali], Windows
 Learning: TypeScript, ReactJS, ThreeJS
 
