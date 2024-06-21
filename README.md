@@ -14,6 +14,7 @@ Location: Focsani / Bucharest, Romania
 ```
 Freelance FiveM Developer ([Community](https://thorhub.ro/))
 
+![](https://komarev.com/ghpvc/?username=cheftheo&color=3e434c&style=flat&abbreviated=true)
 
 <div align="center">
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="550" height="325"/>
