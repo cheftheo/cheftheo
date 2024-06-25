@@ -1,20 +1,6 @@
-cheftheo@github
----------------
+Hi there, I'm Theo!
 
-```cs
-Name: Theo
-Age: 20
-
-Languages: JavaScript, TypeScript, TypeScript, Python, Lua, HTML, CSS, NodeJs, PHP, ReactJs, ExpressJs, Tailwind, SQL + NOSQL
-OS: Linux [Ubuntu, CentOS,Debian,Fedora,RedHat,FreeBSD, Kali], Windows
-Learning: ThreeJS
-
-Workplace: Freelance Developer @ Fivem
-Location: Focsani / Bucharest, Romania
-```
-Freelance FiveM Developer ([Community](https://thorhub.ro/))
-
-![](https://komarev.com/ghpvc/?username=cheftheo&color=3e434c&style=flat&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=cheftheo&color=3e434c&style=flat)
 
 <div align="center">
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="550" height="325"/>
