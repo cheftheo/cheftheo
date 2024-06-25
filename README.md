@@ -1,10 +1,14 @@
-Hi there, I'm Theo!
+![](https://komarev.com/ghpvc/?username=cheftheo&color=8a2be2&style=flat)
 
-![](https://komarev.com/ghpvc/?username=cheftheo&color=3e434c&style=flat)
+# Hi there, I'm [Theo](https://cheftheo.is-a.dev/)! 👋
 
-<div align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="550" height="325"/>
-</div>
+### What I do?
+
+I’m a passionate FullStack Developer dedicated to crafting efficient, scalable, and user-friendly web applications. With expertise in both front-end and back-end technologies, I thrive on tackling complex challenges and turning innovative ideas into reality. My toolkit 👇
+
+> Lua, Python, JavaScript, TypeScript, HTML, CSS, JQuery, ThreeJs, TailwindCSS, SQL, MongoDB, React, NextJs, ExpressJs, PHP, Jira, Ubuntu/CentOS, Git, Docker, Figma
+
+### Feel free to contact me if you want to make your dreams come true!
 
 
 <p align="center">
