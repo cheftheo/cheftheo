@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=cheftheo&color=8a2be2&style=flat)
 
-# Hi there, I'm [Theo](https://cheftheo.is-a.dev/)! 👋 I might be one of the best self-learners you'll ever meet! 
+# Hi there, I'm [Theo](https://cheftheo.is-a.dev/)! 👋
 
 ### What I do?
 
